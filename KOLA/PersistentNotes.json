@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "absTime": 12913.801,
+    "keyword": "save",
+    "missionTime": 13.801,
+    "source": "HDEV_PersistentNotes",
+    "theatre": "Kola"
+  },
+  "nextMarkId": 980005,
+  "nextNoteNumber": 6,
+  "notes": {
+    "NOTE_000004": {
+      "author": {},
+      "createdAt": 235.574,
+      "createdAtAbs": 13135.574,
+      "id": "NOTE_000004",
+      "markId": 980003,
+      "originalMarkId": 251658253,
+      "point": {
+        "x": 274590.6863044,
+        "y": 0,
+        "z": -503822.08382438
+      },
+      "rawText": "save: en este lugar hay tropas enemigas",
+      "restoreMarkId": 980003,
+      "text": "en este lugar hay tropas enemigas",
+      "updatedAt": 235.574,
+      "updatedAtAbs": 13135.574
+    },
+    "NOTE_000005": {
+      "author": {},
+      "createdAt": 260.053,
+      "createdAtAbs": 13160.053,
+      "id": "NOTE_000005",
+      "markId": 980004,
+      "originalMarkId": 251658254,
+      "point": {
+        "x": 205790.20905371,
+        "y": 0,
+        "z": -600001.59929841
+      },
+      "rawText": "save: tarea 2, llevar combustible a la base : Andoya",
+      "restoreMarkId": 980004,
+      "text": "tarea 2, llevar combustible a la base : Andoya",
+      "updatedAt": 288.68,
+      "updatedAtAbs": 13188.68
+    }
+  }
+}

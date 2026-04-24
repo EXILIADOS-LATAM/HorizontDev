@@ -1,0 +1,58 @@
+{
+  "control": {
+    "exportInterval": 350,
+    "injectDuration": 30,
+    "injectInterval": 1
+  },
+  "groups": {
+    "RU_EWR_154_Khalkhalah": {
+      "lastActivatedAt": 19.401,
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 33.401,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    },
+    "RU_HELI_154_Khalkhalah": {
+      "lastActivatedAt": 19.401,
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 33.401,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    },
+    "RU_SAM_154_Khalkhalah": {
+      "lastActivatedAt": 19.401,
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 33.401,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    },
+    "RU_SHIELD_154_Khalkhalah": {
+      "lastActivatedAt": 19.401,
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 33.401,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    },
+    "RU_Tanque": {
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 33.401,
+      "sourceFlags": [
+        2200
+      ],
+      "status": 1
+    }
+  },
+  "meta": {
+    "missionTime": 33.401,
+    "mode": "live",
+    "source": "ActivateUnitsCampaing_SINAI"
+  }
+}

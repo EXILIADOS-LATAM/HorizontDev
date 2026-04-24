@@ -1,0 +1,161 @@
+{
+  "control": {
+    "autosaveInterval": 10,
+    "importWindowSeconds": 30,
+    "mainLoopInterval": 1,
+    "minWriteInterval": 5
+  },
+  "managedFlags": {
+    "2000": 1,
+    "2001": 0,
+    "2002": 1,
+    "2003": 0,
+    "2004": 1,
+    "2005": 0,
+    "2006": 0,
+    "2007": 0,
+    "2100": 1
+  },
+  "meta": {
+    "currentMissionId": "M01",
+    "dbVersion": "1.4.13",
+    "engineVersion": "1.4.13",
+    "nextMarkId": 950013,
+    "source": "HDEV_MissionSystem_Core",
+    "updatedAt": 168.051
+  },
+  "missionCatalog": {
+    "M01": {
+      "autoStart": true,
+      "dbVersion": "1.4.13",
+      "enabled": true,
+      "hasMap": true,
+      "id": "M01",
+      "name": "Operación - Recuperación",
+      "order": 1,
+      "rewards": {
+        "coalition": 2,
+        "enabled": true,
+        "missionSuccessAmount": 500000000
+      },
+      "shortName": "M01"
+    }
+  },
+  "missionsState": {
+    "M01": {
+      "activatedAt": 18.541,
+      "id": "M01",
+      "rewardsPaid": {
+        "missionSuccess": false,
+        "secondaryObjectives": {
+          "OBJ_DESTRUIR_GRUPO_SAM": true,
+          "OBJ_DESTRUIR_GRUPO_SHIP": true
+        }
+      },
+      "secondaryObjectivesState": {
+        "OBJ_CAPTURAR_BASE": {
+          "armed": false,
+          "cleanupExecuted": false,
+          "completed": true,
+          "completedAt": 92.051,
+          "debugStatus": "PASS",
+          "lastEvalAt": 92.051,
+          "lastExists": 0,
+          "lastPass": true,
+          "lastSnapshot": {
+            "baseName": "Andoya",
+            "category": 0,
+            "coalition": 2,
+            "coalitionText": "AZUL",
+            "exists": true,
+            "targetCoalition": 2,
+            "targetCoalitionText": "AZUL"
+          },
+          "lastValue": 2
+        },
+        "OBJ_DESTRUIR_GRUPO_SAM": {
+          "armed": true,
+          "cleanupExecuted": false,
+          "completed": true,
+          "completedAt": 232.051,
+          "debugStatus": "PASS",
+          "firstSeenAt": 18.051,
+          "lastEvalAt": 232.051,
+          "lastExists": 0,
+          "lastPass": true,
+          "lastSeenAt": 231.051,
+          "lastSnapshot": {
+            "aliveUnits": 0,
+            "exists": false,
+            "life0Sum": 0,
+            "lifePercent": 0,
+            "lifeSum": 0,
+            "totalUnits": 0
+          },
+          "lastValue": 0
+        },
+        "OBJ_DESTRUIR_GRUPO_SHIP": {
+          "armed": true,
+          "cleanupExecuted": false,
+          "completed": true,
+          "completedAt": 111.051,
+          "debugStatus": "PASS",
+          "firstSeenAt": 18.051,
+          "lastEvalAt": 111.051,
+          "lastExists": 0,
+          "lastPass": true,
+          "lastSeenAt": 110.051,
+          "lastSnapshot": {
+            "aliveUnits": 0,
+            "exists": false,
+            "life0Sum": 0,
+            "lifePercent": 0,
+            "lifeSum": 0,
+            "totalUnits": 0
+          },
+          "lastValue": 0
+        },
+        "OBJ_MULTI_WAREHOUSE": {
+          "armed": false,
+          "cleanupExecuted": false,
+          "completed": false,
+          "debugStatus": "ERROR",
+          "lastEvalAt": 168.051,
+          "lastExists": 0,
+          "lastPass": false,
+          "lastSnapshot": {
+            "baseExists": false,
+            "baseName": "Andoya",
+            "entryName": "Andoya",
+            "error": "warehouse json no disponible: no se pudo leer: C:\\Users\\User\\Saved Games\\DCS.openbeta\\Config\\HorizontDev\\SistemWarehousePersistanceSinai.json",
+            "items": [],
+            "mode": "all",
+            "source": "json"
+          },
+          "lastValue": 0
+        },
+        "OBJ_RADAR_LLEGA_VIVO_ZONA": {
+          "armed": false,
+          "cleanupExecuted": false,
+          "completed": false,
+          "debugStatus": "NO_EVALUADO",
+          "lastExists": 0,
+          "lastPass": false,
+          "lastSnapshot": []
+        }
+      },
+      "status": 1,
+      "validatorMemory": {
+        "__OBJ_WH__OBJ_MULTI_WAREHOUSE": {
+          "baseExists": false,
+          "baseName": "Andoya",
+          "entryName": "Andoya",
+          "error": "warehouse json no disponible: no se pudo leer: C:\\Users\\User\\Saved Games\\DCS.openbeta\\Config\\HorizontDev\\SistemWarehousePersistanceSinai.json",
+          "items": [],
+          "mode": "all",
+          "source": "json"
+        }
+      }
+    }
+  }
+}

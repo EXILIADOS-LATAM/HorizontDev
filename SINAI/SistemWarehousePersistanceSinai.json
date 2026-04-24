@@ -1,0 +1,1279 @@
+{
+  "control":
+  {
+  },
+  "meta":
+  {
+    "mode": "live",
+    "missionTime": 93.331,
+    "injectDuration": 30,
+    "exportInterval": 60,
+    "source": "DCS Warehouse runtime",
+    "theatre": "Sinai"
+  },
+  "airports": {
+    "1":
+    {
+      "id": 1,
+      "name": "Difarsuwar Airfield",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 499296.875,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "Mi-24P": 20,
+        "Mi-28N": 18
+      },
+      "weapon":
+      {
+        "weapons.missiles.Ataka_9M120": 98,
+        "weapons.missiles.Ataka_9M220": 120,
+        "weapons.missiles.P_60": 600,
+        "weapons.nurs.C_8": 320
+      }
+    },
+    "2":
+    {
+      "id": 2,
+      "name": "Abu Suwayr",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "3":
+    {
+      "id": 3,
+      "name": "As Salihiyah",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 90.212257385254,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "Mi-28N": 2
+      },
+      "weapon":
+      {
+        "weapons.missiles.Ataka_9M120": 32,
+        "weapons.nurs.C_8": 80
+      }
+    },
+    "4":
+    {
+      "id": 4,
+      "name": "Al Ismailiyah",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "5":
+    {
+      "id": 5,
+      "name": "Melez",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "6":
+    {
+      "id": 6,
+      "name": "Fayed",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "7":
+    {
+      "id": 7,
+      "name": "Hatzerim",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "8":
+    {
+      "id": 8,
+      "name": "Nevatim",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "9":
+    {
+      "id": 9,
+      "name": "Ramon Airbase",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "10":
+    {
+      "id": 10,
+      "name": "Ovda",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 785990.0625,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "J-11A": 10,
+        "JF-17": 14
+      },
+      "weapon":
+      {
+        "weapons.containers.kg600": 22,
+        "weapons.containers.{RKL609_L}": 22,
+        "weapons.containers.{RKL609_R}": 22,
+        "weapons.droptanks.1100L Tank": 34,
+        "weapons.missiles.PL-5EII": 34,
+        "weapons.missiles.P_27PE": 44,
+        "weapons.missiles.P_27TE": 44,
+        "weapons.missiles.P_73": 32,
+        "weapons.missiles.P_77": 26,
+        "weapons.missiles.SD-10": 28
+      }
+    },
+    "11":
+    {
+      "id": 11,
+      "name": "Kibrit Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "12":
+    {
+      "id": 12,
+      "name": "Kedem",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "13":
+    {
+      "id": 13,
+      "name": "Wadi al Jandali",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "14":
+    {
+      "id": 14,
+      "name": "Al Mansurah",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "15":
+    {
+      "id": 15,
+      "name": "AzZaqaziq",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "16":
+    {
+      "id": 16,
+      "name": "Bilbeis Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "17":
+    {
+      "id": 17,
+      "name": "Cairo International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "18":
+    {
+      "id": 18,
+      "name": "Cairo West",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 8000000,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "Ka-50_3": 200,
+        "Mi-28N": 200,
+        "MiG-29S": 200,
+        "Su-33": 200
+      },
+      "weapon":
+      {
+        "weapons.containers.SORBCIJA_L": 200,
+        "weapons.containers.SORBCIJA_R": 200,
+        "weapons.droptanks.PTB-1500": 200,
+        "weapons.missiles.Ataka_9M120": 200,
+        "weapons.missiles.Ataka_9M220": 200,
+        "weapons.missiles.Igla_1E": 200,
+        "weapons.missiles.P_27PE": 200,
+        "weapons.missiles.P_27TE": 200,
+        "weapons.missiles.P_33E": 200,
+        "weapons.missiles.P_40T": 200,
+        "weapons.missiles.P_60": 600,
+        "weapons.missiles.P_73": 200,
+        "weapons.missiles.P_77": 200,
+        "weapons.missiles.Vikhr_M": 200,
+        "weapons.nurs.C_8": 480
+      }
+    },
+    "19":
+    {
+      "id": 19,
+      "name": "Inshas Airbase",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "20":
+    {
+      "id": 20,
+      "name": "Hatzor",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "21":
+    {
+      "id": 21,
+      "name": "Palmachim",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 800000,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "Ka-50_3": 20,
+        "Mi-24P": 20
+      },
+      "weapon":
+      {
+        "weapons.missiles.Ataka_9M220": 90,
+        "weapons.missiles.Igla_1E": 90,
+        "weapons.missiles.P_60": 80,
+        "weapons.missiles.Vikhr_M": 80,
+        "weapons.nurs.C_8": 380
+      }
+    },
+    "22":
+    {
+      "id": 22,
+      "name": "Sde Dov",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "23":
+    {
+      "id": 23,
+      "name": "Tel Nof",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "24":
+    {
+      "id": 24,
+      "name": "Ben-Gurion",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 800690.5625,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "MiG-21Bis": 18,
+        "MiG-29 Fulcrum": 22
+      },
+      "weapon":
+      {
+        "weapons.containers.ASO-2": 36,
+        "weapons.droptanks.PTB-800-MIG21": 36,
+        "weapons.droptanks.PTB_1500_MIG29A": 44,
+        "weapons.missiles.P_27PE": 74,
+        "weapons.missiles.P_60": 48,
+        "weapons.missiles.P_73": 68
+      }
+    },
+    "25":
+    {
+      "id": 25,
+      "name": "St Catherine",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "26":
+    {
+      "id": 26,
+      "name": "Abu Rudeis",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "27":
+    {
+      "id": 27,
+      "name": "Baluza",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "28":
+    {
+      "id": 28,
+      "name": "Bir Hasanah",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 792425.125,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "F-14B": 20,
+        "Ka-50_3": 20,
+        "Mi-24P": 20
+      },
+      "weapon":
+      {
+        "weapons.droptanks.HB_F14_EXT_DROPTANK": 60,
+        "weapons.missiles.AIM_54C_Mk60": 80,
+        "weapons.missiles.AIM_9": 50,
+        "weapons.missiles.Ataka_9M220": 64,
+        "weapons.missiles.Igla_1E": 60,
+        "weapons.missiles.P_60": 80,
+        "weapons.missiles.Vikhr_M": 80,
+        "weapons.nurs.C_8": 380
+      }
+    },
+    "29":
+    {
+      "id": 29,
+      "name": "El Arish",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "30":
+    {
+      "id": 30,
+      "name": "El Gora",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "31":
+    {
+      "id": 31,
+      "name": "Al Khatatbah",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "32":
+    {
+      "id": 32,
+      "name": "Al Rahmaniyah Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "33":
+    {
+      "id": 33,
+      "name": "Beni Suef",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "34":
+    {
+      "id": 34,
+      "name": "Birma Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "35":
+    {
+      "id": 35,
+      "name": "Borg El Arab International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "36":
+    {
+      "id": 36,
+      "name": "El Minya",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "37":
+    {
+      "id": 37,
+      "name": "Gebel El Basur Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "38":
+    {
+      "id": 38,
+      "name": "Hurghada International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "39":
+    {
+      "id": 39,
+      "name": "Jiyanklis Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 16672.04296875,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "40":
+    {
+      "id": 40,
+      "name": "Kom Awshim",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "41":
+    {
+      "id": 41,
+      "name": "Ramon International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "42":
+    {
+      "id": 42,
+      "name": "Sharm El Sheikh International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "43":
+    {
+      "id": 43,
+      "name": "Wadi Abu Rish",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "44":
+    {
+      "id": 44,
+      "name": "Al Bahr al Ahmar",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "45":
+    {
+      "id": 45,
+      "name": "Quwaysina",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "46":
+    {
+      "id": 46,
+      "name": "Rafic Hariri Intl",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 14958.076171875,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "F-4E-45MC": 1
+      },
+      "weapon":
+      {
+        "weapons.adapters.lau-88": 1,
+        "weapons.containers.AAQ-28_LITENING": 1,
+        "weapons.droptanks.HB_F-4E_EXT_Center_Fuel_Tank": 1,
+        "weapons.droptanks.HB_F-4E_EXT_WingTank": 1,
+        "weapons.droptanks.HB_F-4E_EXT_WingTank_R": 1,
+        "weapons.missiles.AGM_65B": 1,
+        "weapons.missiles.AGM_65D": 3,
+        "weapons.missiles.AGM_65H": 3,
+        "weapons.missiles.AGR_20_M282": 21
+      }
+    },
+    "47":
+    {
+      "id": 47,
+      "name": "Tabuk",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "48":
+    {
+      "id": 48,
+      "name": "Damascus Intl",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "49":
+    {
+      "id": 49,
+      "name": "Mezzeh Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "50":
+    {
+      "id": 50,
+      "name": "Ramat David",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 783680,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "MiG-19P": 20,
+        "MiG-21Bis": 20
+      },
+      "weapon":
+      {
+        "weapons.containers.ASO-2": 38,
+        "weapons.droptanks.PTB-800-MIG21": 40,
+        "weapons.droptanks.PTB760_MIG19": 38,
+        "weapons.missiles.R-3R": 80,
+        "weapons.missiles.R-3S": 70
+      }
+    },
+    "51":
+    {
+      "id": 51,
+      "name": "Megiddo",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "52":
+    {
+      "id": 52,
+      "name": "Ein Shamer",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "53":
+    {
+      "id": 53,
+      "name": "Taba International Airport",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "54":
+    {
+      "id": 54,
+      "name": "King Feisal Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "55":
+    {
+      "id": 55,
+      "name": "Khalkhalah Air Base",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 798657,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+        "AH-64D_BLK_II": 2,
+        "F-16C_50": 1,
+        "FA-18C_hornet": 2,
+        "MiG-21Bis": 12,
+        "UH-1H": 1
+      },
+      "weapon":
+      {
+        "weapons.containers.AAQ-28_LITENING": 5,
+        "weapons.containers.ASO-2": 20,
+        "weapons.containers.aaq-28LEFT litening": 5,
+        "weapons.containers.ah-64d_radar": 5,
+        "weapons.containers.alq-184long": 5,
+        "weapons.droptanks.PTB-800-MIG21": 24,
+        "weapons.missiles.AIM_120": 40,
+        "weapons.missiles.AIM_9": 80,
+        "weapons.missiles.P_60": 60
+      }
+    },
+    "56":
+    {
+      "id": 56,
+      "name": "TabukHeliBase",
+      "missionTime": 93.331,
+      "categoryName": "airbase",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    }
+  },
+  "warehouses": {
+    "266":
+    {
+      "id": 266,
+      "name": "DDG Arleigh",
+      "missionTime": 93.331,
+      "categoryName": "units",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "267":
+    {
+      "id": 267,
+      "name": "DDG Arleigh Bur",
+      "missionTime": 93.331,
+      "categoryName": "units",
+      "liquids": {
+        "jet_fuel": 0,
+        "gasoline": 0,
+        "methanol_mixture": 0,
+        "diesel": 0
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "268":
+    {
+      "id": 268,
+      "name": "Marshall",
+      "missionTime": 93.331,
+      "categoryName": "units",
+      "liquids": {
+        "jet_fuel": 1000000,
+        "gasoline": 1000000,
+        "methanol_mixture": 1000000,
+        "diesel": 1000000
+      },
+      "aircraft":
+      {
+        "AH-64D_BLK_II": 2,
+        "F-16C_50": 1,
+        "FA-18C_hornet": 2,
+        "MiG-21Bis": 12,
+        "UH-1H": 1
+      },
+      "weapon":
+      {
+      }
+    },
+    "269":
+    {
+      "id": 269,
+      "name": "FFG Oliver",
+      "missionTime": 93.331,
+      "categoryName": "units",
+      "liquids": {
+        "jet_fuel": 1000000,
+        "gasoline": 1000000,
+        "methanol_mixture": 1000000,
+        "diesel": 1000000
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    },
+    "270":
+    {
+      "id": 270,
+      "name": "Tarawa",
+      "missionTime": 93.331,
+      "categoryName": "units",
+      "liquids": {
+        "jet_fuel": 1000000,
+        "gasoline": 1000000,
+        "methanol_mixture": 1000000,
+        "diesel": 1000000
+      },
+      "aircraft":
+      {
+      },
+      "weapon":
+      {
+      }
+    }
+  }
+}
