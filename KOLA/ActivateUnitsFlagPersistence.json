@@ -1,0 +1,30 @@
+{
+  "control": {
+    "exportInterval": 350,
+    "injectDuration": 30,
+    "injectInterval": 1
+  },
+  "groups": {
+    "MT_01_EWR": {
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 3.911,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    },
+    "MT_01_SHIP": {
+      "lastChangeTime": 0,
+      "lastSeenAliveAt": 3.911,
+      "sourceFlags": [
+        2100
+      ],
+      "status": 1
+    }
+  },
+  "meta": {
+    "missionTime": 3.911,
+    "mode": "live",
+    "source": "ActivateUnitsCampaing_SINAI"
+  }
+}
