@@ -1,49 +1,49 @@
 {
   "meta": {
-    "absTime": 12913.801,
+    "absTime": 13039.281,
     "keyword": "save",
-    "missionTime": 13.801,
+    "missionTime": 139.281,
     "source": "HDEV_PersistentNotes",
     "theatre": "Kola"
   },
-  "nextMarkId": 980005,
-  "nextNoteNumber": 6,
+  "nextMarkId": 980003,
+  "nextNoteNumber": 4,
   "notes": {
-    "NOTE_000004": {
+    "NOTE_000002": {
       "author": {},
-      "createdAt": 235.574,
-      "createdAtAbs": 13135.574,
-      "id": "NOTE_000004",
-      "markId": 980003,
-      "originalMarkId": 251658253,
+      "createdAt": 116.038,
+      "createdAtAbs": 13016.038,
+      "id": "NOTE_000002",
+      "markId": 251658259,
+      "originalMarkId": 251658259,
       "point": {
-        "x": 274590.6863044,
+        "x": 288312.12274122,
         "y": 0,
-        "z": -503822.08382438
+        "z": -403031.0431062
       },
-      "rawText": "save: en este lugar hay tropas enemigas",
-      "restoreMarkId": 980003,
-      "text": "en este lugar hay tropas enemigas",
-      "updatedAt": 235.574,
-      "updatedAtAbs": 13135.574
+      "rawText": "save: aca hay enemigos",
+      "restoreMarkId": 980001,
+      "text": "aca hay enemigos",
+      "updatedAt": 116.038,
+      "updatedAtAbs": 13016.038
     },
-    "NOTE_000005": {
+    "NOTE_000003": {
       "author": {},
-      "createdAt": 260.053,
-      "createdAtAbs": 13160.053,
-      "id": "NOTE_000005",
-      "markId": 980004,
-      "originalMarkId": 251658254,
+      "createdAt": 139.281,
+      "createdAtAbs": 13039.281,
+      "id": "NOTE_000003",
+      "markId": 251658260,
+      "originalMarkId": 251658260,
       "point": {
-        "x": 205790.20905371,
+        "x": 191342.40959107,
         "y": 0,
-        "z": -600001.59929841
+        "z": -556637.93384846
       },
-      "rawText": "save: tarea 2, llevar combustible a la base : Andoya",
-      "restoreMarkId": 980004,
-      "text": "tarea 2, llevar combustible a la base : Andoya",
-      "updatedAt": 288.68,
-      "updatedAtAbs": 13188.68
+      "rawText": "save: aca hay otra cosa",
+      "restoreMarkId": 980002,
+      "text": "aca hay otra cosa",
+      "updatedAt": 139.281,
+      "updatedAtAbs": 13039.281
     }
   }
 }
